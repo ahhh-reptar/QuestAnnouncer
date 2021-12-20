@@ -5,5 +5,5 @@ Vanilla WoW (1.12) Quest Announcer addon, with an update to allow it to only sen
 - Existing translation files were updated in English.
 
 # Changelog
-## Initial Upload
+## Initial Upload:
 - Added option to slash command (/qa progress <all/last>) and minimap/FuBar button (under frequency) to change how often messages are sent in group chat.
